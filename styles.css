@@ -1,0 +1,234 @@
+html {
+    font-family: "Kalam", cursive;
+}
+
+body {
+    margin-left: 30px;
+}
+
+.title {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+/* Colors */
+
+.colors {
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    width: 1100px;
+    padding: 0 30px;
+    margin-top: 20px;
+}
+
+.colors ul li {
+    display: inline-block;
+    border-radius: 7px;
+    list-style-type: none;
+    width: 300px;
+    margin: 20px 10px;
+}
+
+.colors ul .red {
+    position: relative;
+    color: white;
+    background-color: #ff0000;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
+.colors ul .green {
+    position: relative;
+    color: white;
+    background-color: #008000;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
+.colors ul .blue {
+    position: relative;
+    color: white;
+    background-color: #0000ff;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
+.colors ul .hot-pink {
+    position: relative;
+    color: black;
+    background-color: #ff69b4;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
+.colors ul .sea-green {
+    position: relative;
+    color: black;
+    background-color: #2e8b57;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
+.colors ul .aquamarine {
+    position: relative;
+    color: black;
+    background-color: #7fffd4;
+    font-weight: bold;
+    font-size: 17px;
+    text-align: center;
+    padding: 10px;
+}
+
+/* Fonts */
+
+.fonts {
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    width: 1200px;
+    padding: 0 30px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+}
+
+.fonts div {
+    display: inline-block;
+    border: 1px solid darkgray;
+    margin: 20px 10px;
+    width: 550px;
+    padding: 10px;
+    vertical-align: top;
+}
+
+.fonts .style {
+    color: #5f5f5f;
+    text-decoration: underline;
+}
+
+/* -Merriweather- */
+
+.fonts .merriweather {
+    font-family: 'Merriweather', serif;
+}
+
+.fonts .merriweather .light {
+    font-weight: 300;
+}
+
+.fonts .merriweather .regular {
+    font-weight: 400;
+}
+
+.fonts .merriweather .regular-italic {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.fonts .merriweather .bold {
+    font-weight: 700;
+}
+
+/* -Source Sans Pro- */
+
+.fonts .source-sans-pro {
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.fonts .source-sans-pro .light {
+    font-weight: 300;
+}
+
+.fonts .source-sans-pro .regular {
+    font-weight: 400;
+}
+
+.fonts .source-sans-pro .regular-italic {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.fonts .source-sans-pro .bold {
+    font-weight: 700;
+}
+
+/* -Arima Madurai- */
+
+.fonts .arima-madurai {
+    font-family: 'Arima Madurai', cursive;
+}
+
+.fonts .arima-madurai .light {
+    font-weight: 300;
+}
+
+.fonts .arima-madurai .regular {
+    font-weight: 400;
+}
+
+.fonts .arima-madurai .bold {
+    font-weight: 700;
+}
+
+/* -Kalam- */
+
+.fonts .kalam {
+    font-family: 'Kalam', cursive;
+    line-height: 1.445;
+}
+
+.fonts .kalam .light {
+    font-weight: 300;
+}
+
+.fonts .kalam .regular {
+    font-weight: 400;
+}
+
+.fonts .kalam .bold {
+    font-weight: 700;
+}
+
+/* -IBM Plex Mono- */
+
+.fonts .ibm-plex-mono {
+    font-family: 'IBM Plex Mono', monospace;
+}
+
+.fonts .ibm-plex-mono .light {
+    font-weight: 300;
+}
+
+.fonts .ibm-plex-mono .regular {
+    font-weight: 400;
+}
+
+.fonts .ibm-plex-mono .regular-italic {
+    font-weight: 400;
+    font-style: italic;
+}
+
+.fonts .ibm-plex-mono .bold {
+    font-weight: 700;
+}
+
+/* Text Styles */
+
+.text-styles {
+    border: 2px solid darkgray;
+    border-radius: 10px;
+    font-family: sans-serif;
+    width: 1100px;
+    padding: 0 30px;
+    padding-bottom: 15px;
+    margin-top: 20px;
+    margin-bottom: 30px;
+}
